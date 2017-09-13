@@ -1,2 +1,2 @@
-# type
-A FOSS clone of [typing.io](https://typing.io). You can check it out at [type.shadowfacts.net](https://type.shadowfacts.net).
+# Typing Test
+Adapted from a free open source clone of typing.io to be used for book authors rather than coders
